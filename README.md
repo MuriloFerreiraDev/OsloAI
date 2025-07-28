@@ -1,5 +1,7 @@
 # OsloAI
 
+========== Em desenvolvimento ==========
+
 🧠 Projeto de Chat Inteligente com API ChatGPT
 
 Este é o repositório do **OsloAI**, um projeto de sistema de chat com interface gráfica em Java Swing, integrado à API do ChatGPT para respostas automáticas inteligentes.
